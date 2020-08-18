@@ -1,0 +1,172 @@
+{
+  "Car": [
+    {
+      "make": "Audi",
+      "model": "A7",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 140.00,
+        "Discount": 15.25
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "BMW",
+      "model": "AB",
+      "vin": "09AGHY64352JITEGBMW",
+      "metadata": {
+        "Color": "RED",
+        "Notes": "No scratches on the car"
+      },
+      "perdayrent": {
+        "Price": 145.00,
+        "Discount": 10.00
+      },
+      "metrics": {
+        "yoymaintenancecost": 2197.50,
+        "depreciation": 2000.43,
+        "rentalcount": {
+          "lastweek": 2,
+          "yeartodate": 21
+        }
+      }
+    },
+	{
+      "make": "TESLA",
+      "model": "TS",
+      "vin": "09AGHY64352JITEGTES",
+      "metadata": {
+        "Color": "BLUE",
+        "Notes": "One scratches on the front of the car"
+      },
+      "perdayrent": {
+        "Price": 100.50,
+        "Discount": 50
+      },
+      "metrics": {
+        "yoymaintenancecost": 3007.00,
+        "depreciation": 200.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 26
+        }
+      }
+    },
+	{
+      "make": "Benz",
+      "model": "bz",
+      "vin": "09AGHY64352JITEGTBZ",
+      "metadata": {
+        "Color": "RED",
+        "Notes": "One scratches on the front of the car"
+      },
+      "perdayrent": {
+        "Price": 100.50,
+        "Discount": 50
+      },
+      "metrics": {
+        "yoymaintenancecost": 3007.20,
+        "depreciation": 201.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 26
+        }
+      }
+    },
+	{
+      "make": "TESLA",
+      "model": "TS",
+      "vin": "09AGHY64352JITEGTES",
+      "metadata": {
+        "Color": "BLUE",
+        "Notes": "Little Ding on front door"
+      },
+      "perdayrent": {
+        "Price": 1000.50,
+        "Discount": 50
+      },
+      "metrics": {
+        "yoymaintenancecost":2000.50,
+        "depreciation": 200.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 26
+        }
+      }
+    },
+	{
+      "make": "HONDA",
+      "model": "Accord",
+      "vin": "09AGHY64352JITEGHON",
+      "metadata": {
+        "Color": "Grey",
+        "Notes": "One scratches on the front of the car"
+      },
+      "perdayrent": {
+        "Price": 175.50,
+        "Discount": 25
+      },
+      "metrics": {
+        "yoymaintenancecost": 1007.52,
+        "depreciation": 100.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 36
+        }
+      }
+    },
+	{
+      "make": "TOYOTO",
+      "model": "Camery",
+      "vin": "09AGHY64352JITEGCAM",
+      "metadata": {
+        "Color": "BLUE",
+        "Notes": "One scratches on the front of the car"
+      },
+      "perdayrent": {
+        "Price": 100.50,
+        "Discount": 50
+      },
+      "metrics": {
+        "yoymaintenancecost": 520.50,
+        "depreciation": 200.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 26
+        }
+      }
+    },
+	{
+      "make": "TOYOTO",
+      "model": "Corola",
+      "vin": "09AGHY64352JITEGCOR",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "One scratches on the front of the car"
+      },
+      "perdayrent": {
+        "Price": 95.50,
+        "Discount": 10
+      },
+      "metrics": {
+        "yoymaintenancecost": 2007.00,
+        "depreciation": 250.89,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 36
+        }
+      }
+    }
+  ]
+}
